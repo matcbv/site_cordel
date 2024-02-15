@@ -1,0 +1,36 @@
+main p{
+    white-space: pre-line;
+    max-width: 400px;
+    font-family: 'Playfair Display';
+    margin: 0 80px;
+    line-height: 2.4em;
+    font-size: 1.6em;
+    font-weight: 600;
+
+}
+
+#sec_img01{
+    padding: 150px 0;
+    background: transparent url(../imagens/background001.jpg) right center no-repeat fixed;
+    background-size: cover;
+    margin-top: 80px;
+}
+
+#sec_img01 p{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.233);
+    padding: 0 0 80px 50px;
+}
+
+#sec_img02{
+    padding: 150px 0;
+    background: transparent url(../imagens/background002.jpg) right center no-repeat fixed;
+    background-size: cover;
+    margin-top: 80px;
+}
+
+#sec_img02 p{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.233);
+    padding: 0 0 80px 50px;
+}
