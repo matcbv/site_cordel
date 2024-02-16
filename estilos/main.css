@@ -18,7 +18,7 @@ main p{
 
 #sec_img01 p{
     color: white;
-    background-color: rgba(0, 0, 0, 0.233);
+    background-color: rgba(0, 0, 0, 0.24);
     padding: 0 0 80px 50px;
 }
 
@@ -27,10 +27,11 @@ main p{
     background: transparent url(../imagens/background002.jpg) right center no-repeat fixed;
     background-size: cover;
     margin-top: 80px;
+    text-shadow: 2px 2px 0 black;
 }
 
 #sec_img02 p{
     color: white;
-    background-color: rgba(0, 0, 0, 0.233);
+    background-color: rgba(0, 0, 0, 0.24);
     padding: 0 0 80px 50px;
 }
