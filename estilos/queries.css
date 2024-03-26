@@ -1,0 +1,10 @@
+@media (max-width:600px) {
+    main p{
+        font-size: 1.2em;
+        margin: 0 20px;
+    } 
+
+    #section-img01 p, #section-img02 p{
+        padding: 0 0 30px 20px;
+    }
+}
